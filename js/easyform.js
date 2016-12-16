@@ -586,7 +586,7 @@
         this.parent = ele;
         this.defaults = {
             left: 0, top: 0,
-            position: "left",             //top, left, bottom, right
+            position: "right",             //top, left, bottom, right
             disappear: "lost-focus",        //self, other, lost-focus, none, N seconds
             speed: "fast",
             theme: "red",
